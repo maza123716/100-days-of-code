@@ -10,5 +10,5 @@ Day 1 -10
 - Function parameter
 - User input
 - Casting
-- Validation- if statements, nested if, while loop, try $ except
+- Validation- if statements, nested if, while loop, try $ except, for loop
 - Let user exit the program

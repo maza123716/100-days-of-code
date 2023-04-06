@@ -12,3 +12,4 @@ Day 1 -10
 - Casting
 - Validation- if statements, nested if, while loop, try $ except, for loop
 - Let user exit the program
+- How to write comments 
